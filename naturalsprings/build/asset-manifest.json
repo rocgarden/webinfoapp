@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.ea330b80.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/girlOnPhone.jpg": "/static/media/girlOnPhone.2d42dceec3e270e35ee6.jpg",
+    "static/media/SittingGirl.jpg": "/static/media/SittingGirl.4b58f73f870f4dc9f297.jpg",
+    "static/media/dropOfWater.jpg": "/static/media/dropOfWater.e4b56dbc527eaada66c8.jpg",
+    "static/media/holdingHands.jpg": "/static/media/holdingHands.72119f168611b77126e5.jpg",
+    "static/media/bg-coworking.jpeg": "/static/media/bg-coworking.06bccc47fe6ae5366bf8.jpeg",
+    "static/media/bg2.jpg": "/static/media/bg2.561b23be47f5f633635f.jpg",
+    "static/media/team-5.jpg": "/static/media/team-5.d59ab7b9f95f1169cf83.jpg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.ea330b80.js.map": "/static/js/main.ea330b80.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ea330b80.js"
+  ]
+}
